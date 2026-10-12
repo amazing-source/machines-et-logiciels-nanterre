@@ -1,0 +1,18 @@
+{
+  "_lisez_moi": "Copie ce fichier sous le nom identite.json (meme dossier), remplace chaque valeur entre crochets par la tienne, puis lance les scripts : ils inserent ton identite dans tous les fichiers generes. identite.json est ignore par git, il ne sera jamais publie.",
+  "nom_prenom": "[NOM Prénom]",
+  "prenom_nom": "[Prénom Nom]",
+  "signature": "[P. Nom]",
+  "numero": "[N° étudiant]",
+  "filiere": "[Filière]",
+  "universite": "Université Paris Nanterre",
+  "annee": "2026-2027",
+  "fichier_numero": "NUMERO",
+  "prenom_nom_tts": "[Prénom Nom, écrit comme il se prononce]",
+  "filiere_tts": "[Filière, écrite comme elle se prononce]",
+  "dnt_ville": "[ta ville, ton pays]",
+  "dnt_fai": "[ton fournisseur d'accès]",
+  "dnt_navigateur": "[ton navigateur]",
+  "dnt_systeme": "[ton système d'exploitation]",
+  "dossier_rendu": "C:\\Users\\TON_NOM_UTILISATEUR\\Documents\\MACHINES ET LOGICIELS"
+}

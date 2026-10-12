@@ -1,0 +1,3999 @@
+{
+  "url": "https://www.parisnanterre.fr/",
+  "date": "2026-10-12T19:38:33.695Z",
+  "tabulations": 400,
+  "lien_contact": null,
+  "arrivee": null,
+  "premier_arret": {
+    "tag": "BUTTON",
+    "texte": "FR",
+    "href": "",
+    "zone": "header",
+    "visible": true,
+    "contour": "1px auto",
+    "ombre": "",
+    "n": 1
+  },
+  "arrets_dans_bandeau_cookies": 4,
+  "arrets_sans_contour_ni_ombre": 0,
+  "arrets_hors_ecran_ou_invisibles": 93,
+  "lien_evitement": [],
+  "etapes": [
+    {
+      "tag": "BUTTON",
+      "texte": "FR",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 1
+    },
+    {
+      "tag": "A",
+      "texte": "UNIVERSITÉ",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 2
+    },
+    {
+      "tag": "A",
+      "texte": "FORMATION",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 3
+    },
+    {
+      "tag": "A",
+      "texte": "RECHERCHE",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 4
+    },
+    {
+      "tag": "A",
+      "texte": "VIE DES CAMPUS",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 5
+    },
+    {
+      "tag": "A",
+      "texte": "INTERNATIONAL",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 6
+    },
+    {
+      "tag": "A",
+      "texte": "ENGAGEMENTS ET PARTENARIATS",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 7
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 8
+    },
+    {
+      "tag": "A",
+      "texte": "Consultez notre politique en matière de protection des données.",
+      "href": "https://www.parisnanterre.fr/mentions-legales",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 9
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Tout accepter",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 10
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Tout refuser",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 11
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Personnaliser",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 12
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "×",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 13
+    },
+    {
+      "tag": "A",
+      "texte": "En savoir plus…",
+      "href": "https://www.parisnanterre.fr/agenda/information-importante",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 14
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "VOUS ÊTES",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 15
+    },
+    {
+      "tag": "A",
+      "texte": "Facebook",
+      "href": "https://www.parisnanterre.fr/facebook",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 16
+    },
+    {
+      "tag": "A",
+      "texte": "Linkedin",
+      "href": "https://www.parisnanterre.fr/linkedin",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 17
+    },
+    {
+      "tag": "A",
+      "texte": "Instagram",
+      "href": "https://www.parisnanterre.fr/instagram",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 18
+    },
+    {
+      "tag": "A",
+      "texte": "Boutique",
+      "href": "https://www.parisnanterre.fr/boutique",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 19
+    },
+    {
+      "tag": "A",
+      "texte": "Youtube",
+      "href": "https://www.parisnanterre.fr/youtube",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 20
+    },
+    {
+      "tag": "A",
+      "texte": "Bibliothèques",
+      "href": "https://www.parisnanterre.fr/www-parisnanterre-fr",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 21
+    },
+    {
+      "tag": "A",
+      "texte": "Fondation",
+      "href": "https://www.parisnanterre.fr/ent",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 22
+    },
+    {
+      "tag": "A",
+      "texte": "MSH Mondes",
+      "href": "https://www.parisnanterre.fr/espace-presse",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 23
+    },
+    {
+      "tag": "A",
+      "texte": "La Contemporaine",
+      "href": "https://www.parisnanterre.fr/la-contemporaine-1",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 24
+    },
+    {
+      "tag": "A",
+      "texte": "Actus recherche",
+      "href": "https://www.parisnanterre.fr/actus-recherche",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 25
+    },
+    {
+      "tag": "INPUT",
+      "texte": "Recherche par mots-clés",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 26
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Lancer la recherche",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 27
+    },
+    {
+      "tag": "A",
+      "texte": "Forte de plus de 500 partenaires situés dans environ 80 pays, la polit",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 28
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 29
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre a pour signature l’innovation sociale, ent",
+      "href": "",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 30
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 31
+    },
+    {
+      "tag": "A",
+      "texte": "2025/2026",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 32
+    },
+    {
+      "tag": "A",
+      "texte": "OFFRE DE FORMATION",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 33
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 34
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre propose une offre de formation riche et di",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 35
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 36
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre, avec plus de 35 000 étudiantes et étudian",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 37
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 38
+    },
+    {
+      "tag": "A",
+      "texte": "La structuration de l’offre de formation de l’Université Paris Nanterr",
+      "href": "https://www.parisnanterre.fr/politique-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 39
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 40
+    },
+    {
+      "tag": "A",
+      "texte": "41 unités de recherche, dont 12 unités mixtes de recherche CNRS et 1 u",
+      "href": "https://www.parisnanterre.fr/politique-de-la-recherche",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 41
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-de-la-recherche",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 42
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre mène une politique de vie étudiante ambiti",
+      "href": "https://www.parisnanterre.fr/notre-politique-de-vie-des-campus",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 43
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/notre-politique-de-vie-des-campus",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 44
+    },
+    {
+      "tag": "A",
+      "texte": "Forte de plus de 500 partenaires situés dans environ 80 pays, la polit",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 45
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 46
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre a pour signature l’innovation sociale, ent",
+      "href": "",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 47
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 48
+    },
+    {
+      "tag": "A",
+      "texte": "2025/2026",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 49
+    },
+    {
+      "tag": "A",
+      "texte": "OFFRE DE FORMATION",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 50
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 51
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre propose une offre de formation riche et di",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 52
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 53
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre, avec plus de 35 000 étudiantes et étudian",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 54
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 55
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 56
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 57
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 58
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 59
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 60
+    },
+    {
+      "tag": "A",
+      "texte": "Information importante",
+      "href": "https://www.parisnanterre.fr/agenda/information-importante?id_agendaevenement=98183",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 61
+    },
+    {
+      "tag": "A",
+      "texte": "Ateliers de l'ACA² : annulations et changements de salles",
+      "href": "https://www.parisnanterre.fr/agenda/infos-pratiques-ateliers-aca2?id_agendaevenement=97883",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 62
+    },
+    {
+      "tag": "A",
+      "texte": "Réouverture de l'Université Paris Nanterre",
+      "href": "https://www.parisnanterre.fr/agenda/reouverture-de-luniversite-paris-nanterre?id_agendaevenement=98139",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 63
+    },
+    {
+      "tag": "A",
+      "texte": "Ouverture de la Saison Méditerranée 2026 - Journées scientifiques - RE",
+      "href": "https://www.parisnanterre.fr/agenda/journee-scientifique-douverture-du-projet-jeunesses-mediterraneennes-et-mobilites-1?id_agendaevenement=97250",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 64
+    },
+    {
+      "tag": "A",
+      "texte": "Voir tous les événements",
+      "href": "https://www.parisnanterre.fr/agenda",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 65
+    },
+    {
+      "tag": "A",
+      "texte": "France Universités appelle à mettre la jeunesse au cœur du débat publi",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 66
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 67
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 68
+    },
+    {
+      "tag": "A",
+      "texte": "lire le communiqué",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 69
+    },
+    {
+      "tag": "A",
+      "texte": "Consultez les formations proposées à l'Université Paris Nanterre",
+      "href": "https://formations.parisnanterre.fr/fr/index.html",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 70
+    },
+    {
+      "tag": "A",
+      "texte": "Toutes les procédures utiles à connaître.",
+      "href": "https://candidatures-inscriptions.parisnanterre.fr/",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 71
+    },
+    {
+      "tag": "A",
+      "texte": "Un espace dédié au rayonnement scientifique de l'Université Paris Nant",
+      "href": "https://recherche.parisnanterre.fr/",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 72
+    },
+    {
+      "tag": "A",
+      "texte": "Versez le solde de la taxe d’apprentissage 2026 à l’Université Paris N",
+      "href": "https://entreprises.parisnanterre.fr/navigation/soutenez-notre-universite",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 73
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/nos-projets/unisson",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 74
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/alliance-europeenne-educ",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 75
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.campus-condorcet.fr/",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 76
+    },
+    {
+      "tag": "A",
+      "texte": "Retour à l'accueil Institutionel",
+      "href": "https://www.parisnanterre.fr/",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 77
+    },
+    {
+      "tag": "A",
+      "texte": "Travailler à l'université",
+      "href": "https://www.parisnanterre.fr/travailler-a-luniversite",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 78
+    },
+    {
+      "tag": "A",
+      "texte": "Espace presse",
+      "href": "https://www.parisnanterre.fr/espace-presse-1",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 79
+    },
+    {
+      "tag": "A",
+      "texte": "Annuaire",
+      "href": "https://www.parisnanterre.fr/annuaire",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 80
+    },
+    {
+      "tag": "A",
+      "texte": "Mentions légales",
+      "href": "https://www.parisnanterre.fr/mentions-legales",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 81
+    },
+    {
+      "tag": "A",
+      "texte": "Plan du campus",
+      "href": "https://www.parisnanterre.fr/plan-du-campus",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 82
+    },
+    {
+      "tag": "A",
+      "texte": "Personnalisation des cookies",
+      "href": "#",
+      "zone": "bandeau-cookies",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 83
+    },
+    {
+      "tag": "A",
+      "texte": "Facebook",
+      "href": "https://www.parisnanterre.fr/facebook",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 84
+    },
+    {
+      "tag": "A",
+      "texte": "Linkedin",
+      "href": "https://www.parisnanterre.fr/linkedin",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 85
+    },
+    {
+      "tag": "A",
+      "texte": "Instagram",
+      "href": "https://www.parisnanterre.fr/instagram",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 86
+    },
+    {
+      "tag": "A",
+      "texte": "Boutique",
+      "href": "https://www.parisnanterre.fr/boutique",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 87
+    },
+    {
+      "tag": "A",
+      "texte": "Youtube",
+      "href": "https://www.parisnanterre.fr/youtube",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 88
+    },
+    {
+      "tag": "A",
+      "texte": "Connexion ksup",
+      "href": "/servlet/com.jsbsoft.jtf.core.SG?PROC=IDENTIFICATION_FRONT&ACTION=CONNECTER",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 89
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#body",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 90
+    },
+    {
+      "tag": "BODY",
+      "n": 91
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "FR",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 92
+    },
+    {
+      "tag": "A",
+      "texte": "UNIVERSITÉ",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 93
+    },
+    {
+      "tag": "A",
+      "texte": "FORMATION",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 94
+    },
+    {
+      "tag": "A",
+      "texte": "RECHERCHE",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 95
+    },
+    {
+      "tag": "A",
+      "texte": "VIE DES CAMPUS",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 96
+    },
+    {
+      "tag": "A",
+      "texte": "INTERNATIONAL",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 97
+    },
+    {
+      "tag": "A",
+      "texte": "ENGAGEMENTS ET PARTENARIATS",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 98
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 99
+    },
+    {
+      "tag": "A",
+      "texte": "Consultez notre politique en matière de protection des données.",
+      "href": "https://www.parisnanterre.fr/mentions-legales",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 100
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Tout accepter",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 101
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Tout refuser",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 102
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Personnaliser",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 103
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "×",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 104
+    },
+    {
+      "tag": "A",
+      "texte": "En savoir plus…",
+      "href": "https://www.parisnanterre.fr/agenda/information-importante",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 105
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "VOUS ÊTES",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 106
+    },
+    {
+      "tag": "A",
+      "texte": "Facebook",
+      "href": "https://www.parisnanterre.fr/facebook",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 107
+    },
+    {
+      "tag": "A",
+      "texte": "Linkedin",
+      "href": "https://www.parisnanterre.fr/linkedin",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 108
+    },
+    {
+      "tag": "A",
+      "texte": "Instagram",
+      "href": "https://www.parisnanterre.fr/instagram",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 109
+    },
+    {
+      "tag": "A",
+      "texte": "Boutique",
+      "href": "https://www.parisnanterre.fr/boutique",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 110
+    },
+    {
+      "tag": "A",
+      "texte": "Youtube",
+      "href": "https://www.parisnanterre.fr/youtube",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 111
+    },
+    {
+      "tag": "A",
+      "texte": "Bibliothèques",
+      "href": "https://www.parisnanterre.fr/www-parisnanterre-fr",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 112
+    },
+    {
+      "tag": "A",
+      "texte": "Fondation",
+      "href": "https://www.parisnanterre.fr/ent",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 113
+    },
+    {
+      "tag": "A",
+      "texte": "MSH Mondes",
+      "href": "https://www.parisnanterre.fr/espace-presse",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 114
+    },
+    {
+      "tag": "A",
+      "texte": "La Contemporaine",
+      "href": "https://www.parisnanterre.fr/la-contemporaine-1",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 115
+    },
+    {
+      "tag": "A",
+      "texte": "Actus recherche",
+      "href": "https://www.parisnanterre.fr/actus-recherche",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 116
+    },
+    {
+      "tag": "INPUT",
+      "texte": "Recherche par mots-clés",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 117
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Lancer la recherche",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 118
+    },
+    {
+      "tag": "A",
+      "texte": "Forte de plus de 500 partenaires situés dans environ 80 pays, la polit",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 119
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 120
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre a pour signature l’innovation sociale, ent",
+      "href": "",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 121
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 122
+    },
+    {
+      "tag": "A",
+      "texte": "2025/2026",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 123
+    },
+    {
+      "tag": "A",
+      "texte": "OFFRE DE FORMATION",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 124
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 125
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre propose une offre de formation riche et di",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 126
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 127
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre, avec plus de 35 000 étudiantes et étudian",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 128
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 129
+    },
+    {
+      "tag": "A",
+      "texte": "La structuration de l’offre de formation de l’Université Paris Nanterr",
+      "href": "https://www.parisnanterre.fr/politique-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 130
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 131
+    },
+    {
+      "tag": "A",
+      "texte": "41 unités de recherche, dont 12 unités mixtes de recherche CNRS et 1 u",
+      "href": "https://www.parisnanterre.fr/politique-de-la-recherche",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 132
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-de-la-recherche",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 133
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre mène une politique de vie étudiante ambiti",
+      "href": "https://www.parisnanterre.fr/notre-politique-de-vie-des-campus",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 134
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/notre-politique-de-vie-des-campus",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 135
+    },
+    {
+      "tag": "A",
+      "texte": "Forte de plus de 500 partenaires situés dans environ 80 pays, la polit",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 136
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 137
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre a pour signature l’innovation sociale, ent",
+      "href": "",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 138
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 139
+    },
+    {
+      "tag": "A",
+      "texte": "2025/2026",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 140
+    },
+    {
+      "tag": "A",
+      "texte": "OFFRE DE FORMATION",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 141
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 142
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre propose une offre de formation riche et di",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 143
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 144
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre, avec plus de 35 000 étudiantes et étudian",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 145
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 146
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 147
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 148
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 149
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 150
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 151
+    },
+    {
+      "tag": "A",
+      "texte": "Information importante",
+      "href": "https://www.parisnanterre.fr/agenda/information-importante?id_agendaevenement=98183",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 152
+    },
+    {
+      "tag": "A",
+      "texte": "Ateliers de l'ACA² : annulations et changements de salles",
+      "href": "https://www.parisnanterre.fr/agenda/infos-pratiques-ateliers-aca2?id_agendaevenement=97883",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 153
+    },
+    {
+      "tag": "A",
+      "texte": "Réouverture de l'Université Paris Nanterre",
+      "href": "https://www.parisnanterre.fr/agenda/reouverture-de-luniversite-paris-nanterre?id_agendaevenement=98139",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 154
+    },
+    {
+      "tag": "A",
+      "texte": "Ouverture de la Saison Méditerranée 2026 - Journées scientifiques - RE",
+      "href": "https://www.parisnanterre.fr/agenda/journee-scientifique-douverture-du-projet-jeunesses-mediterraneennes-et-mobilites-1?id_agendaevenement=97250",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 155
+    },
+    {
+      "tag": "A",
+      "texte": "Voir tous les événements",
+      "href": "https://www.parisnanterre.fr/agenda",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 156
+    },
+    {
+      "tag": "A",
+      "texte": "France Universités appelle à mettre la jeunesse au cœur du débat publi",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 157
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 158
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 159
+    },
+    {
+      "tag": "A",
+      "texte": "lire le communiqué",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 160
+    },
+    {
+      "tag": "A",
+      "texte": "Consultez les formations proposées à l'Université Paris Nanterre",
+      "href": "https://formations.parisnanterre.fr/fr/index.html",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 161
+    },
+    {
+      "tag": "A",
+      "texte": "Toutes les procédures utiles à connaître.",
+      "href": "https://candidatures-inscriptions.parisnanterre.fr/",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 162
+    },
+    {
+      "tag": "A",
+      "texte": "Un espace dédié au rayonnement scientifique de l'Université Paris Nant",
+      "href": "https://recherche.parisnanterre.fr/",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 163
+    },
+    {
+      "tag": "A",
+      "texte": "Versez le solde de la taxe d’apprentissage 2026 à l’Université Paris N",
+      "href": "https://entreprises.parisnanterre.fr/navigation/soutenez-notre-universite",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 164
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/nos-projets/unisson",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 165
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/alliance-europeenne-educ",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 166
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.campus-condorcet.fr/",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 167
+    },
+    {
+      "tag": "A",
+      "texte": "Retour à l'accueil Institutionel",
+      "href": "https://www.parisnanterre.fr/",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 168
+    },
+    {
+      "tag": "A",
+      "texte": "Travailler à l'université",
+      "href": "https://www.parisnanterre.fr/travailler-a-luniversite",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 169
+    },
+    {
+      "tag": "A",
+      "texte": "Espace presse",
+      "href": "https://www.parisnanterre.fr/espace-presse-1",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 170
+    },
+    {
+      "tag": "A",
+      "texte": "Annuaire",
+      "href": "https://www.parisnanterre.fr/annuaire",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 171
+    },
+    {
+      "tag": "A",
+      "texte": "Mentions légales",
+      "href": "https://www.parisnanterre.fr/mentions-legales",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 172
+    },
+    {
+      "tag": "A",
+      "texte": "Plan du campus",
+      "href": "https://www.parisnanterre.fr/plan-du-campus",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 173
+    },
+    {
+      "tag": "A",
+      "texte": "Personnalisation des cookies",
+      "href": "#",
+      "zone": "bandeau-cookies",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 174
+    },
+    {
+      "tag": "A",
+      "texte": "Facebook",
+      "href": "https://www.parisnanterre.fr/facebook",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 175
+    },
+    {
+      "tag": "A",
+      "texte": "Linkedin",
+      "href": "https://www.parisnanterre.fr/linkedin",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 176
+    },
+    {
+      "tag": "A",
+      "texte": "Instagram",
+      "href": "https://www.parisnanterre.fr/instagram",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 177
+    },
+    {
+      "tag": "A",
+      "texte": "Boutique",
+      "href": "https://www.parisnanterre.fr/boutique",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 178
+    },
+    {
+      "tag": "A",
+      "texte": "Youtube",
+      "href": "https://www.parisnanterre.fr/youtube",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 179
+    },
+    {
+      "tag": "A",
+      "texte": "Connexion ksup",
+      "href": "/servlet/com.jsbsoft.jtf.core.SG?PROC=IDENTIFICATION_FRONT&ACTION=CONNECTER",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 180
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#body",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 181
+    },
+    {
+      "tag": "BODY",
+      "n": 182
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "FR",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 183
+    },
+    {
+      "tag": "A",
+      "texte": "UNIVERSITÉ",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 184
+    },
+    {
+      "tag": "A",
+      "texte": "FORMATION",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 185
+    },
+    {
+      "tag": "A",
+      "texte": "RECHERCHE",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 186
+    },
+    {
+      "tag": "A",
+      "texte": "VIE DES CAMPUS",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 187
+    },
+    {
+      "tag": "A",
+      "texte": "INTERNATIONAL",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 188
+    },
+    {
+      "tag": "A",
+      "texte": "ENGAGEMENTS ET PARTENARIATS",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 189
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 190
+    },
+    {
+      "tag": "A",
+      "texte": "Consultez notre politique en matière de protection des données.",
+      "href": "https://www.parisnanterre.fr/mentions-legales",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 191
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Tout accepter",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 192
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Tout refuser",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 193
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Personnaliser",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 194
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "×",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 195
+    },
+    {
+      "tag": "A",
+      "texte": "En savoir plus…",
+      "href": "https://www.parisnanterre.fr/agenda/information-importante",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 196
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "VOUS ÊTES",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 197
+    },
+    {
+      "tag": "A",
+      "texte": "Facebook",
+      "href": "https://www.parisnanterre.fr/facebook",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 198
+    },
+    {
+      "tag": "A",
+      "texte": "Linkedin",
+      "href": "https://www.parisnanterre.fr/linkedin",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 199
+    },
+    {
+      "tag": "A",
+      "texte": "Instagram",
+      "href": "https://www.parisnanterre.fr/instagram",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 200
+    },
+    {
+      "tag": "A",
+      "texte": "Boutique",
+      "href": "https://www.parisnanterre.fr/boutique",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 201
+    },
+    {
+      "tag": "A",
+      "texte": "Youtube",
+      "href": "https://www.parisnanterre.fr/youtube",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 202
+    },
+    {
+      "tag": "A",
+      "texte": "Bibliothèques",
+      "href": "https://www.parisnanterre.fr/www-parisnanterre-fr",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 203
+    },
+    {
+      "tag": "A",
+      "texte": "Fondation",
+      "href": "https://www.parisnanterre.fr/ent",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 204
+    },
+    {
+      "tag": "A",
+      "texte": "MSH Mondes",
+      "href": "https://www.parisnanterre.fr/espace-presse",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 205
+    },
+    {
+      "tag": "A",
+      "texte": "La Contemporaine",
+      "href": "https://www.parisnanterre.fr/la-contemporaine-1",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 206
+    },
+    {
+      "tag": "A",
+      "texte": "Actus recherche",
+      "href": "https://www.parisnanterre.fr/actus-recherche",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 207
+    },
+    {
+      "tag": "INPUT",
+      "texte": "Recherche par mots-clés",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 208
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Lancer la recherche",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 209
+    },
+    {
+      "tag": "A",
+      "texte": "Forte de plus de 500 partenaires situés dans environ 80 pays, la polit",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 210
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 211
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre a pour signature l’innovation sociale, ent",
+      "href": "",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 212
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 213
+    },
+    {
+      "tag": "A",
+      "texte": "2025/2026",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 214
+    },
+    {
+      "tag": "A",
+      "texte": "OFFRE DE FORMATION",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 215
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 216
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre propose une offre de formation riche et di",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 217
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 218
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre, avec plus de 35 000 étudiantes et étudian",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 219
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 220
+    },
+    {
+      "tag": "A",
+      "texte": "La structuration de l’offre de formation de l’Université Paris Nanterr",
+      "href": "https://www.parisnanterre.fr/politique-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 221
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 222
+    },
+    {
+      "tag": "A",
+      "texte": "41 unités de recherche, dont 12 unités mixtes de recherche CNRS et 1 u",
+      "href": "https://www.parisnanterre.fr/politique-de-la-recherche",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 223
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-de-la-recherche",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 224
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre mène une politique de vie étudiante ambiti",
+      "href": "https://www.parisnanterre.fr/notre-politique-de-vie-des-campus",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 225
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/notre-politique-de-vie-des-campus",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 226
+    },
+    {
+      "tag": "A",
+      "texte": "Forte de plus de 500 partenaires situés dans environ 80 pays, la polit",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 227
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 228
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre a pour signature l’innovation sociale, ent",
+      "href": "",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 229
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 230
+    },
+    {
+      "tag": "A",
+      "texte": "2025/2026",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 231
+    },
+    {
+      "tag": "A",
+      "texte": "OFFRE DE FORMATION",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 232
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 233
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre propose une offre de formation riche et di",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 234
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 235
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre, avec plus de 35 000 étudiantes et étudian",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 236
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 237
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 238
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 239
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 240
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 241
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 242
+    },
+    {
+      "tag": "A",
+      "texte": "Information importante",
+      "href": "https://www.parisnanterre.fr/agenda/information-importante?id_agendaevenement=98183",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 243
+    },
+    {
+      "tag": "A",
+      "texte": "Ateliers de l'ACA² : annulations et changements de salles",
+      "href": "https://www.parisnanterre.fr/agenda/infos-pratiques-ateliers-aca2?id_agendaevenement=97883",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 244
+    },
+    {
+      "tag": "A",
+      "texte": "Réouverture de l'Université Paris Nanterre",
+      "href": "https://www.parisnanterre.fr/agenda/reouverture-de-luniversite-paris-nanterre?id_agendaevenement=98139",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 245
+    },
+    {
+      "tag": "A",
+      "texte": "Ouverture de la Saison Méditerranée 2026 - Journées scientifiques - RE",
+      "href": "https://www.parisnanterre.fr/agenda/journee-scientifique-douverture-du-projet-jeunesses-mediterraneennes-et-mobilites-1?id_agendaevenement=97250",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 246
+    },
+    {
+      "tag": "A",
+      "texte": "Voir tous les événements",
+      "href": "https://www.parisnanterre.fr/agenda",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 247
+    },
+    {
+      "tag": "A",
+      "texte": "France Universités appelle à mettre la jeunesse au cœur du débat publi",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 248
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 249
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 250
+    },
+    {
+      "tag": "A",
+      "texte": "lire le communiqué",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 251
+    },
+    {
+      "tag": "A",
+      "texte": "Consultez les formations proposées à l'Université Paris Nanterre",
+      "href": "https://formations.parisnanterre.fr/fr/index.html",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 252
+    },
+    {
+      "tag": "A",
+      "texte": "Toutes les procédures utiles à connaître.",
+      "href": "https://candidatures-inscriptions.parisnanterre.fr/",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 253
+    },
+    {
+      "tag": "A",
+      "texte": "Un espace dédié au rayonnement scientifique de l'Université Paris Nant",
+      "href": "https://recherche.parisnanterre.fr/",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 254
+    },
+    {
+      "tag": "A",
+      "texte": "Versez le solde de la taxe d’apprentissage 2026 à l’Université Paris N",
+      "href": "https://entreprises.parisnanterre.fr/navigation/soutenez-notre-universite",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 255
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/nos-projets/unisson",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 256
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/alliance-europeenne-educ",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 257
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.campus-condorcet.fr/",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 258
+    },
+    {
+      "tag": "A",
+      "texte": "Retour à l'accueil Institutionel",
+      "href": "https://www.parisnanterre.fr/",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 259
+    },
+    {
+      "tag": "A",
+      "texte": "Travailler à l'université",
+      "href": "https://www.parisnanterre.fr/travailler-a-luniversite",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 260
+    },
+    {
+      "tag": "A",
+      "texte": "Espace presse",
+      "href": "https://www.parisnanterre.fr/espace-presse-1",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 261
+    },
+    {
+      "tag": "A",
+      "texte": "Annuaire",
+      "href": "https://www.parisnanterre.fr/annuaire",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 262
+    },
+    {
+      "tag": "A",
+      "texte": "Mentions légales",
+      "href": "https://www.parisnanterre.fr/mentions-legales",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 263
+    },
+    {
+      "tag": "A",
+      "texte": "Plan du campus",
+      "href": "https://www.parisnanterre.fr/plan-du-campus",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 264
+    },
+    {
+      "tag": "A",
+      "texte": "Personnalisation des cookies",
+      "href": "#",
+      "zone": "bandeau-cookies",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 265
+    },
+    {
+      "tag": "A",
+      "texte": "Facebook",
+      "href": "https://www.parisnanterre.fr/facebook",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 266
+    },
+    {
+      "tag": "A",
+      "texte": "Linkedin",
+      "href": "https://www.parisnanterre.fr/linkedin",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 267
+    },
+    {
+      "tag": "A",
+      "texte": "Instagram",
+      "href": "https://www.parisnanterre.fr/instagram",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 268
+    },
+    {
+      "tag": "A",
+      "texte": "Boutique",
+      "href": "https://www.parisnanterre.fr/boutique",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 269
+    },
+    {
+      "tag": "A",
+      "texte": "Youtube",
+      "href": "https://www.parisnanterre.fr/youtube",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 270
+    },
+    {
+      "tag": "A",
+      "texte": "Connexion ksup",
+      "href": "/servlet/com.jsbsoft.jtf.core.SG?PROC=IDENTIFICATION_FRONT&ACTION=CONNECTER",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 271
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#body",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 272
+    },
+    {
+      "tag": "BODY",
+      "n": 273
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "FR",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 274
+    },
+    {
+      "tag": "A",
+      "texte": "UNIVERSITÉ",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 275
+    },
+    {
+      "tag": "A",
+      "texte": "FORMATION",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 276
+    },
+    {
+      "tag": "A",
+      "texte": "RECHERCHE",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 277
+    },
+    {
+      "tag": "A",
+      "texte": "VIE DES CAMPUS",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 278
+    },
+    {
+      "tag": "A",
+      "texte": "INTERNATIONAL",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 279
+    },
+    {
+      "tag": "A",
+      "texte": "ENGAGEMENTS ET PARTENARIATS",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 280
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 281
+    },
+    {
+      "tag": "A",
+      "texte": "Consultez notre politique en matière de protection des données.",
+      "href": "https://www.parisnanterre.fr/mentions-legales",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 282
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Tout accepter",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 283
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Tout refuser",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 284
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Personnaliser",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 285
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "×",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 286
+    },
+    {
+      "tag": "A",
+      "texte": "En savoir plus…",
+      "href": "https://www.parisnanterre.fr/agenda/information-importante",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 287
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "VOUS ÊTES",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 288
+    },
+    {
+      "tag": "A",
+      "texte": "Facebook",
+      "href": "https://www.parisnanterre.fr/facebook",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 289
+    },
+    {
+      "tag": "A",
+      "texte": "Linkedin",
+      "href": "https://www.parisnanterre.fr/linkedin",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 290
+    },
+    {
+      "tag": "A",
+      "texte": "Instagram",
+      "href": "https://www.parisnanterre.fr/instagram",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 291
+    },
+    {
+      "tag": "A",
+      "texte": "Boutique",
+      "href": "https://www.parisnanterre.fr/boutique",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 292
+    },
+    {
+      "tag": "A",
+      "texte": "Youtube",
+      "href": "https://www.parisnanterre.fr/youtube",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 293
+    },
+    {
+      "tag": "A",
+      "texte": "Bibliothèques",
+      "href": "https://www.parisnanterre.fr/www-parisnanterre-fr",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 294
+    },
+    {
+      "tag": "A",
+      "texte": "Fondation",
+      "href": "https://www.parisnanterre.fr/ent",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 295
+    },
+    {
+      "tag": "A",
+      "texte": "MSH Mondes",
+      "href": "https://www.parisnanterre.fr/espace-presse",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 296
+    },
+    {
+      "tag": "A",
+      "texte": "La Contemporaine",
+      "href": "https://www.parisnanterre.fr/la-contemporaine-1",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 297
+    },
+    {
+      "tag": "A",
+      "texte": "Actus recherche",
+      "href": "https://www.parisnanterre.fr/actus-recherche",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 298
+    },
+    {
+      "tag": "INPUT",
+      "texte": "Recherche par mots-clés",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 299
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Lancer la recherche",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 300
+    },
+    {
+      "tag": "A",
+      "texte": "Forte de plus de 500 partenaires situés dans environ 80 pays, la polit",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 301
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 302
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre a pour signature l’innovation sociale, ent",
+      "href": "",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 303
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 304
+    },
+    {
+      "tag": "A",
+      "texte": "2025/2026",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 305
+    },
+    {
+      "tag": "A",
+      "texte": "OFFRE DE FORMATION",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 306
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 307
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre propose une offre de formation riche et di",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 308
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 309
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre, avec plus de 35 000 étudiantes et étudian",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 310
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 311
+    },
+    {
+      "tag": "A",
+      "texte": "La structuration de l’offre de formation de l’Université Paris Nanterr",
+      "href": "https://www.parisnanterre.fr/politique-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 312
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 313
+    },
+    {
+      "tag": "A",
+      "texte": "41 unités de recherche, dont 12 unités mixtes de recherche CNRS et 1 u",
+      "href": "https://www.parisnanterre.fr/politique-de-la-recherche",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 314
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-de-la-recherche",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 315
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre mène une politique de vie étudiante ambiti",
+      "href": "https://www.parisnanterre.fr/notre-politique-de-vie-des-campus",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 316
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/notre-politique-de-vie-des-campus",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 317
+    },
+    {
+      "tag": "A",
+      "texte": "Forte de plus de 500 partenaires situés dans environ 80 pays, la polit",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 318
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 319
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre a pour signature l’innovation sociale, ent",
+      "href": "",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 320
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 321
+    },
+    {
+      "tag": "A",
+      "texte": "2025/2026",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 322
+    },
+    {
+      "tag": "A",
+      "texte": "OFFRE DE FORMATION",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 323
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 324
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre propose une offre de formation riche et di",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 325
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 326
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre, avec plus de 35 000 étudiantes et étudian",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 327
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/presentation",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 328
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 329
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 330
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 331
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 332
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#2",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 333
+    },
+    {
+      "tag": "A",
+      "texte": "Information importante",
+      "href": "https://www.parisnanterre.fr/agenda/information-importante?id_agendaevenement=98183",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 334
+    },
+    {
+      "tag": "A",
+      "texte": "Ateliers de l'ACA² : annulations et changements de salles",
+      "href": "https://www.parisnanterre.fr/agenda/infos-pratiques-ateliers-aca2?id_agendaevenement=97883",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 335
+    },
+    {
+      "tag": "A",
+      "texte": "Réouverture de l'Université Paris Nanterre",
+      "href": "https://www.parisnanterre.fr/agenda/reouverture-de-luniversite-paris-nanterre?id_agendaevenement=98139",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 336
+    },
+    {
+      "tag": "A",
+      "texte": "Ouverture de la Saison Méditerranée 2026 - Journées scientifiques - RE",
+      "href": "https://www.parisnanterre.fr/agenda/journee-scientifique-douverture-du-projet-jeunesses-mediterraneennes-et-mobilites-1?id_agendaevenement=97250",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 337
+    },
+    {
+      "tag": "A",
+      "texte": "Voir tous les événements",
+      "href": "https://www.parisnanterre.fr/agenda",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 338
+    },
+    {
+      "tag": "A",
+      "texte": "France Universités appelle à mettre la jeunesse au cœur du débat publi",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 339
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 340
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 341
+    },
+    {
+      "tag": "A",
+      "texte": "lire le communiqué",
+      "href": "https://www.parisnanterre.fr/espace-presse/communiques-de-presse/france-universites-appelle-a-mettre-la-jeunesse-au-coeur-du-debat-public",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 342
+    },
+    {
+      "tag": "A",
+      "texte": "Consultez les formations proposées à l'Université Paris Nanterre",
+      "href": "https://formations.parisnanterre.fr/fr/index.html",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 343
+    },
+    {
+      "tag": "A",
+      "texte": "Toutes les procédures utiles à connaître.",
+      "href": "https://candidatures-inscriptions.parisnanterre.fr/",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 344
+    },
+    {
+      "tag": "A",
+      "texte": "Un espace dédié au rayonnement scientifique de l'Université Paris Nant",
+      "href": "https://recherche.parisnanterre.fr/",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 345
+    },
+    {
+      "tag": "A",
+      "texte": "Versez le solde de la taxe d’apprentissage 2026 à l’Université Paris N",
+      "href": "https://entreprises.parisnanterre.fr/navigation/soutenez-notre-universite",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 346
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/nos-projets/unisson",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 347
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/alliance-europeenne-educ",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 348
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.campus-condorcet.fr/",
+      "zone": "main",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 349
+    },
+    {
+      "tag": "A",
+      "texte": "Retour à l'accueil Institutionel",
+      "href": "https://www.parisnanterre.fr/",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 350
+    },
+    {
+      "tag": "A",
+      "texte": "Travailler à l'université",
+      "href": "https://www.parisnanterre.fr/travailler-a-luniversite",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 351
+    },
+    {
+      "tag": "A",
+      "texte": "Espace presse",
+      "href": "https://www.parisnanterre.fr/espace-presse-1",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 352
+    },
+    {
+      "tag": "A",
+      "texte": "Annuaire",
+      "href": "https://www.parisnanterre.fr/annuaire",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 353
+    },
+    {
+      "tag": "A",
+      "texte": "Mentions légales",
+      "href": "https://www.parisnanterre.fr/mentions-legales",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 354
+    },
+    {
+      "tag": "A",
+      "texte": "Plan du campus",
+      "href": "https://www.parisnanterre.fr/plan-du-campus",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 355
+    },
+    {
+      "tag": "A",
+      "texte": "Personnalisation des cookies",
+      "href": "#",
+      "zone": "bandeau-cookies",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 356
+    },
+    {
+      "tag": "A",
+      "texte": "Facebook",
+      "href": "https://www.parisnanterre.fr/facebook",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 357
+    },
+    {
+      "tag": "A",
+      "texte": "Linkedin",
+      "href": "https://www.parisnanterre.fr/linkedin",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 358
+    },
+    {
+      "tag": "A",
+      "texte": "Instagram",
+      "href": "https://www.parisnanterre.fr/instagram",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 359
+    },
+    {
+      "tag": "A",
+      "texte": "Boutique",
+      "href": "https://www.parisnanterre.fr/boutique",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 360
+    },
+    {
+      "tag": "A",
+      "texte": "Youtube",
+      "href": "https://www.parisnanterre.fr/youtube",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 361
+    },
+    {
+      "tag": "A",
+      "texte": "Connexion ksup",
+      "href": "/servlet/com.jsbsoft.jtf.core.SG?PROC=IDENTIFICATION_FRONT&ACTION=CONNECTER",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 362
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "#body",
+      "zone": "footer",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 363
+    },
+    {
+      "tag": "BODY",
+      "n": 364
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "FR",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 365
+    },
+    {
+      "tag": "A",
+      "texte": "UNIVERSITÉ",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 366
+    },
+    {
+      "tag": "A",
+      "texte": "FORMATION",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 367
+    },
+    {
+      "tag": "A",
+      "texte": "RECHERCHE",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 368
+    },
+    {
+      "tag": "A",
+      "texte": "VIE DES CAMPUS",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 369
+    },
+    {
+      "tag": "A",
+      "texte": "INTERNATIONAL",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 370
+    },
+    {
+      "tag": "A",
+      "texte": "ENGAGEMENTS ET PARTENARIATS",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 371
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 372
+    },
+    {
+      "tag": "A",
+      "texte": "Consultez notre politique en matière de protection des données.",
+      "href": "https://www.parisnanterre.fr/mentions-legales",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 373
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Tout accepter",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 374
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Tout refuser",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 375
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Personnaliser",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "2px auto",
+      "ombre": "",
+      "n": 376
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "×",
+      "href": "",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 377
+    },
+    {
+      "tag": "A",
+      "texte": "En savoir plus…",
+      "href": "https://www.parisnanterre.fr/agenda/information-importante",
+      "zone": "",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 378
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "VOUS ÊTES",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 379
+    },
+    {
+      "tag": "A",
+      "texte": "Facebook",
+      "href": "https://www.parisnanterre.fr/facebook",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 380
+    },
+    {
+      "tag": "A",
+      "texte": "Linkedin",
+      "href": "https://www.parisnanterre.fr/linkedin",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 381
+    },
+    {
+      "tag": "A",
+      "texte": "Instagram",
+      "href": "https://www.parisnanterre.fr/instagram",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 382
+    },
+    {
+      "tag": "A",
+      "texte": "Boutique",
+      "href": "https://www.parisnanterre.fr/boutique",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 383
+    },
+    {
+      "tag": "A",
+      "texte": "Youtube",
+      "href": "https://www.parisnanterre.fr/youtube",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 384
+    },
+    {
+      "tag": "A",
+      "texte": "Bibliothèques",
+      "href": "https://www.parisnanterre.fr/www-parisnanterre-fr",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 385
+    },
+    {
+      "tag": "A",
+      "texte": "Fondation",
+      "href": "https://www.parisnanterre.fr/ent",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 386
+    },
+    {
+      "tag": "A",
+      "texte": "MSH Mondes",
+      "href": "https://www.parisnanterre.fr/espace-presse",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 387
+    },
+    {
+      "tag": "A",
+      "texte": "La Contemporaine",
+      "href": "https://www.parisnanterre.fr/la-contemporaine-1",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 388
+    },
+    {
+      "tag": "A",
+      "texte": "Actus recherche",
+      "href": "https://www.parisnanterre.fr/actus-recherche",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 389
+    },
+    {
+      "tag": "INPUT",
+      "texte": "Recherche par mots-clés",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 390
+    },
+    {
+      "tag": "BUTTON",
+      "texte": "Lancer la recherche",
+      "href": "",
+      "zone": "header",
+      "visible": true,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 391
+    },
+    {
+      "tag": "A",
+      "texte": "Forte de plus de 500 partenaires situés dans environ 80 pays, la polit",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 392
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/politique-internationale",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 393
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre a pour signature l’innovation sociale, ent",
+      "href": "",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 394
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 395
+    },
+    {
+      "tag": "A",
+      "texte": "2025/2026",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 396
+    },
+    {
+      "tag": "A",
+      "texte": "OFFRE DE FORMATION",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 397
+    },
+    {
+      "tag": "A",
+      "texte": "",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 398
+    },
+    {
+      "tag": "A",
+      "texte": "L’Université Paris Nanterre propose une offre de formation riche et di",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 399
+    },
+    {
+      "tag": "A",
+      "texte": "Lire la suite",
+      "href": "https://www.parisnanterre.fr/offre-de-formation",
+      "zone": "main",
+      "visible": false,
+      "contour": "1px auto",
+      "ombre": "",
+      "n": 400
+    }
+  ]
+}

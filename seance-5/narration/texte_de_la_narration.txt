@@ -1,0 +1,20 @@
+﻿Texte de la narration du projet — à lire à voix haute, une diapositive après l'autre.
+Remplace les mentions entre crochets, puis adapte le texte à TA façon de parler.
+
+Diapositive 1 — Titre
+Bonjour. Je m'appelle [Prénom Nom], je suis en [Filière] à l'Université Paris Nanterre. Pour ce projet, j'ai choisi les données ouvertes de Parcoursup 2025 en Île-de-France : 2 691 formations, environ 153 000 places et plus de 4 millions de candidatures. Ma question est simple : où la concurrence est-elle la plus forte ?
+
+Diapositive 2 — Problématique et démarche
+Ma problématique tient en deux questions. Dans quelles filières est-il le plus difficile d'obtenir une place ? Et la situation est-elle la même à Paris et en banlieue ? Pour y répondre, j'utilise un indicateur simple : le nombre de candidatures par place. Ma démarche suit quatre étapes : collecter les données sur le portail du ministère, ajouter mes calculs, les synthétiser, puis les représenter par un graphique.
+
+Diapositive 3 — Les données
+Voici mes données dans Excel. Chaque ligne correspond à une formation, avec son établissement, son département, sa filière, puis le nombre de places, de candidatures et d'admis. Les colonnes à en-tête orange sont celles que j'ai ajoutées par formule : la zone géographique avec RECHERCHEV, les candidatures par place avec une division protégée par SIERREUR, le taux de remplissage, et un niveau de tension obtenu avec des SI imbriqués.
+
+Diapositive 4 — Tri et filtre
+Première exploration, avec le filtre et le tri. Un filtre avancé isole les 87 formations de mon université, que je trie ensuite de la plus demandée à la moins demandée. En tête, le portail Psychologie de la licence accès santé, avec 171 candidatures par place. Ma propre licence, MIASHS, en reçoit 19 : elle se classe 41e sur 87. Pour comparer les filières entre elles, il faut maintenant une synthèse.
+
+Diapositive 5 — Tableau de synthèse
+La synthèse repose sur un tableau croisé dynamique. Pour chaque filière, il compte les formations, additionne les places et les candidatures, et un champ calculé donne le nombre de candidatures par place. Un second tableau croise les filières avec la zone géographique : Paris atteint 29 candidatures par place, contre 28 en petite couronne et 23 et demie en grande couronne. Les sous-totaux et les formules redonnent exactement les mêmes chiffres.
+
+Diapositive 6 — Graphique
+Le graphique répond à ma question. Les filières de santé sont de loin les plus disputées : 81 candidatures par place en PASS, 58 pour les instituts de soins infirmiers. À l'inverse, la licence, qui offre à elle seule quatre places sur dix, reste parmi les moins tendues, avec 17 candidatures et demie par place. Une précaution toutefois : chaque candidat formule plusieurs vœux. Ce ratio mesure donc l'attractivité d'une filière, pas la chance d'y être admis. Merci de votre attention.

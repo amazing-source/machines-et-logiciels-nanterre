@@ -1,0 +1,12 @@
+# ton identite et tes fichiers remplis : ne les publie jamais
+outils/identite.json
+a-deposer/
+
+# fichiers de verrouillage et temporaires d'Office
+~$*
+*.tmp
+
+# dependances et sorties locales
+node_modules/
+__pycache__/
+*.pyc

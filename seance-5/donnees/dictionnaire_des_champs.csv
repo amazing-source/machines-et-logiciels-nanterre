@@ -1,0 +1,119 @@
+﻿champ;type;libelle
+session;text;Session
+contrat_etab;text;Statut de l’établissement de la filière de formation (public, privé…)
+cod_uai;text;Code UAI de l'établissement
+g_ea_lib_vx;text;Établissement
+dep;text;Code départemental de l’établissement
+dep_lib;text;Département de l’établissement
+region_etab_aff;text;Région de l’établissement
+acad_mies;text;Académie de l’établissement
+ville_etab;text;Commune de l’établissement
+lib_for_voe_ins;text;Filière de formation
+select_form;text;Sélectivité
+fili;text;Filière de formation très agrégée
+lib_comp_voe_ins;text;Filière de formation détaillée
+form_lib_voe_acc;text;Filière de formation
+fil_lib_voe_acc;text;Filière de formation détaillée bis
+detail_forma;text;Filière de formation très détaillée
+g_olocalisation_des_formations;geo_point_2d;Coordonnées GPS de la formation
+capa_fin;int;Capacité de l’établissement par formation
+voe_tot;int;Effectif total des candidats pour une formation
+voe_tot_f;int;Dont effectif des candidates pour une formation
+nb_voe_pp;int;Effectif total des candidats en phase principale
+nb_voe_pp_internat;int;Dont effectif des candidats ayant postulé en internat
+nb_voe_pp_bg;int;Effectif des candidats néo bacheliers généraux en phase principale
+nb_voe_pp_bg_brs;int;Dont effectif des candidats boursiers néo bacheliers généraux en phase principale
+nb_voe_pp_bt;int;Effectif des candidats néo bacheliers technologiques en phase principale
+nb_voe_pp_bt_brs;int;Dont effectif des candidats boursiers néo bacheliers technologiques en phase principale
+nb_voe_pp_bp;int;Effectif des candidats néo bacheliers professionnels en phase principale
+nb_voe_pp_bp_brs;int;Dont effectif des candidats boursiers néo bacheliers professionnels en phase principale
+nb_voe_pp_at;int;Effectif des autres candidats en phase principale
+nb_voe_pc;int;Effectif total des candidats en phase complémentaire
+nb_voe_pc_bg;int;Effectif des candidats néo bacheliers généraux en phase complémentaire
+nb_voe_pc_bt;int;Effectif des candidats néo bacheliers technologique en phase complémentaire
+nb_voe_pc_bp;int;Effectif des candidats néo bacheliers professionnels en phase complémentaire
+nb_voe_pc_at;int;Effectifs des autres candidats en phase complémentaire
+nb_cla_pp;int;Effectif total des candidats classés par l’établissement en phase principale
+nb_cla_pc;int;Effectif des candidats classés par l’établissement en phase complémentaire
+nb_cla_pp_internat;int;Effectif des candidats classés par l’établissement en internat (CPGE)
+nb_cla_pp_pasinternat;int;Effectif des candidats classés par l’établissement hors internat (CPGE)
+nb_cla_pp_bg;int;Effectif des candidats néo bacheliers généraux classés par l’établissement
+nb_cla_pp_bg_brs;int;Dont effectif des candidats boursiers néo bacheliers généraux classés par l’établissement
+nb_cla_pp_bt;int;Effectif des candidats néo bacheliers technologiques classés par l’établissement
+nb_cla_pp_bt_brs;int;Dont effectif des candidats boursiers néo bacheliers technologiques classés par l’établissement
+nb_cla_pp_bp;int;Effectif des candidats néo bacheliers professionnels classés par l’établissement
+nb_cla_pp_bp_brs;int;Dont effectif des candidats boursiers néo bacheliers professionnels classés par l’établissement
+nb_cla_pp_at;int;Effectif des autres candidats classés par l’établissement
+prop_tot;int;Effectif total des candidats ayant reçu une proposition d’admission de la part de l’établissement
+acc_tot;int;Effectif total des candidats ayant accepté la proposition de l’établissement (admis)
+acc_tot_f;int;Dont effectif des candidates admises
+acc_pp;int;Effectif des admis en phase principale
+acc_pc;int;Effectif des admis en phase complémentaire
+acc_debutpp;int;Dont effectif des admis ayant reçu leur proposition d’admission à l'ouverture de la procédure principale
+acc_datebac;int;Dont effectif des admis ayant reçu leur proposition d’admission avant le baccalauréat
+acc_finpp;int;Dont effectif des admis ayant reçu leur proposition d’admission avant la fin de la procédure principale
+acc_internat;int;Dont effectif des admis en internat
+acc_brs;int;Dont effectif des admis boursiers néo bacheliers
+acc_neobac;int;Effectif des admis néo bacheliers
+acc_bg;int;Effectif des admis néo bacheliers généraux
+acc_bt;int;Effectif des admis néo bacheliers technologiques
+acc_bp;int;Effectif des admis néo bacheliers professionnels
+acc_at;int;Effectif des autres candidats admis
+acc_mention_nonrenseignee;int;Dont effectif des admis néo bacheliers sans information sur la mention au bac
+acc_sansmention;int;Dont effectif des admis néo bacheliers sans mention au bac
+acc_ab;int;Dont effectif des admis néo bacheliers avec mention Assez Bien au bac
+acc_b;int;Dont effectif des admis néo bacheliers avec mention Bien au bac
+acc_tb;int;Dont effectif des admis néo bacheliers avec mention Très Bien au bac
+acc_tbf;int;Dont effectif des admis néo bacheliers avec mention Très Bien avec félicitations au bac
+acc_bg_mention;int;Effectif des admis néo bacheliers généraux ayant eu une mention au bac
+acc_bt_mention;int;Effectif des admis néo bacheliers technologiques ayant eu une mention au bac
+acc_bp_mention;int;Effectif des admis néo bacheliers professionnels ayant eu une mention au bac
+acc_term;int;Dont effectif des admis issus du même établissement (BTS/CPGE)
+acc_term_f;int;Dont effectif des admises issues du même établissement (BTS/CPGE)
+acc_aca_orig;int;Dont effectif des admis issus de la même académie
+acc_aca_orig_idf;int;Dont effectif des admis issus de la même académie (Paris/Créteil/Versailles réunies)
+pct_acc_debutpp;double;% d’admis ayant reçu leur proposition d’admission à l'ouverture de la procédure principale
+pct_acc_datebac;double;% d’admis ayant reçu leur proposition d’admission avant le baccalauréat
+pct_acc_finpp;double;% d’admis ayant reçu leur proposition d’admission avant la fin de la procédure principale
+pct_f;double;% d’admis dont filles
+pct_aca_orig;double;% d’admis néo bacheliers issus de la même académie
+pct_aca_orig_idf;double;% d’admis néo bacheliers issus de la même académie (Paris/Créteil/Versailles réunies)
+pct_etab_orig;double;% d’admis néo bacheliers issus du même établissement (BTS/CPGE)
+pct_bours;double;% d’admis néo bacheliers boursiers
+pct_neobac;double;% d’admis néo bacheliers
+pct_mention_nonrenseignee;double;% d’admis néo bacheliers sans information sur la mention au bac
+pct_sansmention;double;% d’admis néo bacheliers sans mention au bac
+pct_ab;double;% d’admis néo bacheliers avec mention Assez Bien au bac
+pct_b;double;% d’admis néo bacheliers avec mention Bien au bac
+pct_tb;double;% d’admis néo bacheliers avec mention Très Bien au bac
+pct_tbf;double;% d’admis néo bacheliers avec mention Très Bien avec félicitations au bac
+pct_bg;double;% d’admis néo bacheliers généraux
+pct_bg_mention;double;Dont % d’admis avec mention (BG)
+pct_bt;double;% d’admis néo bacheliers technologiques
+pct_bt_mention;double;Dont % d’admis avec mention (BT)
+pct_bp;double;% d’admis néo bacheliers professionnels
+pct_bp_mention;double;Dont % d’admis avec mention (BP)
+prop_tot_bg;double;Effectif des candidats en terminale générale ayant reçu une proposition d’admission de la part de l’établissement
+prop_tot_bg_brs;double;Dont effectif des candidats boursiers en terminale générale ayant reçu une proposition d’admission de la part de l’établissement
+prop_tot_bt;double;Effectif des candidats en terminale technologique ayant reçu une proposition d’admission de la part de l’établissement
+prop_tot_bt_brs;double;Dont effectif des candidats boursiers en terminale technologique ayant reçu une proposition d’admission de la part de l’établissement
+prop_tot_bp;double;Effectif des candidats en terminale professionnelle ayant reçu une proposition d’admission de la part de l’établissement
+prop_tot_bp_brs;double;Dont effectif des candidats boursiers en terminale générale professionnelle ayant reçu une proposition d’admission de la part de l’établissement
+prop_tot_at;double;Effectif des autres candidats ayant reçu une proposition d’admission de la part de l’établissement
+lib_grp1;text;Regroupement 1 effectué par les formations pour les classements
+ran_grp1;int;Rang du dernier appelé du groupe 1
+lib_grp2;text;Regroupement 2 effectué par les formations pour les classements
+ran_grp2;int;Rang du dernier appelé du groupe 2
+lib_grp3;text;Regroupement 3 effectué par les formations pour les classements
+ran_grp3;int;Rang du dernier appelé du groupe 3
+list_com;text;list_com
+tri;text;tri
+cod_aff_form;text;cod_aff_form
+detail_forma2;text;Concours communs et banque d'épreuves
+lien_form_psup;text;Lien de la formation sur la plateforme Parcoursup
+taux_acces_ens;int;Taux d’accès
+part_acces_gen;int;Part des terminales générales qui étaient en position de recevoir une proposition en phase principale
+part_acces_tec;int;Part des terminales technologiques qui étaient en position de recevoir une proposition en phase principale
+part_acces_pro;int;Part des terminales professionnelles qui étaient en position de recevoir une proposition en phase principale
+etablissement_id_paysage;text;etablissement_id_paysage
+composante_id_paysage;text;composante_id_paysage
